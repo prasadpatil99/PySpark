@@ -5,7 +5,7 @@ than python's library pandas and has many features like processing data with SQL
 parallel processing on clusters with RDD & many more.*
 
 ## Dependencies
-```sh
+``` sh
 $ pip install pyspark
 ```
 
